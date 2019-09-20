@@ -6,7 +6,7 @@ CentraleSupélec).
 
 orieux@l2s.centralesupelec.fr
 
-Notebooks are available as interactive environement through
+Notebooks are available as interactive documents through
 [Binder](https://mybinder.org/), static raw `html` (right click ->
 save as) and `pdf`.
 
